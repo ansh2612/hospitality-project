@@ -14,7 +14,7 @@ This project analyzes hotel booking and revenue data to help stakeholders track 
 
 ## Data Model
 
-![Data-Model](screenshots/Data-Model.png)
+![Data-Model](Data-Model.png)
 
 The model follows a star-schema design with two fact tables and four dimension tables:
 
@@ -30,7 +30,7 @@ The model follows a star-schema design with two fact tables and four dimension t
 
 ## Dashboard Preview
 
-![Hospitality Dashboard](screenshots/Dashboard-Overview.png)
+![Hospitality Dashboard](Dashboard-Overview.png)
 
 ## Key Metrics
 
