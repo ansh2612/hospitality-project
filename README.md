@@ -83,8 +83,8 @@ IF(
 ## Files
 
 - `hospitality_project.pbix` — full Power BI report file
-- `screenshots/dashboard-overview.png` — dashboard preview image
-- `screenshots/data-model.png` — star-schema data model diagram
+- `Dashboard-Overview.png` — dashboard preview image
+- `Data-Model.png` — star-schema data model diagram
 
 ---
 
